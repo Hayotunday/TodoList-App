@@ -1,3 +1,3 @@
 # TodoList-App
 
-Simmple Todo app for react-native practicce
+Simple Todo app for react-native practicce
