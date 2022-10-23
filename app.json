@@ -7,9 +7,9 @@
     "icon": "./assets/todo.jpg",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/splash.jpg",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#222222"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
